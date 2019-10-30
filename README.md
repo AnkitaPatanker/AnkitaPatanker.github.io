@@ -1,2 +1,2 @@
-# AnkitaPatanker.guthub.io
+# AnkitaPatanker.github.io
 My portfolio
